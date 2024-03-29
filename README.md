@@ -6,7 +6,7 @@ The objective of this analysis is to determine the average income according to g
 # Project Steps:
 #### 1.Data Importation:
 
-Data on bike trips was imported into Excel from the appropriate source.
+Data on bike trips was imported into Excel.
 #### 2.Data Cleaning:
 
 The data was cleaned by removing errors and duplicates.
