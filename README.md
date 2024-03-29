@@ -19,11 +19,11 @@ The data was processed to group ages into three distinct categories: "adolescent
 Analyses were conducted to determine the average income by gender, marital status, distance traveled, and age group of individuals whether or not they bought a bike.
 #### 5.Creation of Pivot Tables:
 
-Four pivot tables were created to visualize and summarize the data dynamically.
+Five pivot tables were created to visualize and summarize the data dynamically.
 The pivot tables were named appropriately for easy reference.
 # Deliverables:
   #### Analyzed data.
-  #### Four pivot tables to visualize the results.
+  #### Five pivot tables to visualize the results.
   #### A report describing the conclusions and insights drawn from the analysis.
  
 # Conclusion:
