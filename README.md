@@ -4,7 +4,7 @@ Objective:
 The objective of this analysis is to determine the average income according to gender, marital status whether or not they bought a bike, the distance traveled by individuals whether or not they bought a bike, and the age group of individuals whether or not they bought a bike.
 
 # Project Steps:
-## 1.Data Importation:
+#### 1.Data Importation:
 
 Data on bike trips was imported into Excel from the appropriate source.
 ## 2.Data Cleaning:
