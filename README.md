@@ -22,9 +22,9 @@ Analyses were conducted to determine the average income by gender, marital statu
 Four pivot tables were created to visualize and summarize the data dynamically.
 The pivot tables were named appropriately for easy reference.
 # Deliverables:
- -Analyzed data.
- -Four pivot tables to visualize the results.
- -A report describing the conclusions and insights drawn from the analysis.
+  #### Analyzed data.
+  #### Four pivot tables to visualize the results.
+  #### A report describing the conclusions and insights drawn from the analysis.
  
 # Conclusion:
 The project helped understand the trends and characteristics of bike users based on different factors such as gender, marital status, age, and distance traveled. The results can be used to make informed decisions in areas such as marketing, product planning, and service improvement.
